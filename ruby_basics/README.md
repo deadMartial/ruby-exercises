@@ -13,7 +13,7 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 8. Repeat the steps from step 2 until no more tests are skipped and all are passing.
 
 **TIP**: When there is only one exercise file in a directory (such as in `6_arrays`) you can omit the path to the file and just enter `rspec` to run the tests in that file.
-
+  
 ###  Contents
 
 #### 1.Basic Data Types
